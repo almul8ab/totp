@@ -44,7 +44,7 @@ async def start_(client: Client, message: Message):
                         "➕ اضفني لكروبك ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
                 ],[
                     InlineKeyboardButton(
-                         "📚 الاوامر", url="https://t.me/Y_Q_8/121688"
+                         "📚 الاوامر", url="https://t.me/Jepthon"
                     ),
                     InlineKeyboardButton(
                         "💝 التواصل معنا", url=f"https://t.me/{OWNER_NAME}")
